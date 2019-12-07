@@ -1,0 +1,2 @@
+C:\Users\nghe1\Documents\Unity\Car with Guns\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\nghe1\Documents\Unity\Car with Guns\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
